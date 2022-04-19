@@ -1,6 +1,6 @@
 # Looking for Suspicious Transactions
 
-![Credit card fraudster](Images/Threshold_for_suspicion1.png) 
+![Credit card fraudster](Images/Threshold_for_suspicion.jpg) 
 
 *[What is a suspicious transaction report?](https://www.fintrac-canafe.gc.ca/guidance-directives/transaction-operation/Guide2/2-eng)
 
